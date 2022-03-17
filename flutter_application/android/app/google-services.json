@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166969549646",
+    "project_id": "veganoo",
+    "storage_bucket": "veganoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166969549646:android:d9f015b3bb0a613109f41f",
+        "android_client_info": {
+          "package_name": "com.veganoo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166969549646-lkgubv0gn1uo4p6vgb9s5l7ehh4o5s28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvT2a6v61_ymg2ghbMMX1vyd_UQEAC-jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166969549646-lkgubv0gn1uo4p6vgb9s5l7ehh4o5s28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
