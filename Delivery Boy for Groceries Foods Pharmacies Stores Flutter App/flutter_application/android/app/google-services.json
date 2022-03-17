@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768468935313",
+    "project_id": "veganoo-delivery-boy",
+    "storage_bucket": "veganoo-delivery-boy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768468935313:android:4be3941b7e2f6898a15530",
+        "android_client_info": {
+          "package_name": "com.veganoo.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768468935313-bcmrekb9284ti0g2ja5iks1cmemtkq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJNDIt6gqesDZFUoKbBE-eZvaoCTjZNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768468935313-bcmrekb9284ti0g2ja5iks1cmemtkq3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
